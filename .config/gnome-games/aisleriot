@@ -1,0 +1,14 @@
+[Aisleriot Config]
+ShowToolbar=true
+ShowStatusbar=true
+Sound=true
+Animations=true
+Recent=klondike;eliminator;bakers-dozen;canfield;
+Variation=klondike.scm
+ClickToMove=false
+
+[klondike.scm]
+Statistic=2;5;305;492;
+
+[canfield.scm]
+Statistic=0;1;0;0;

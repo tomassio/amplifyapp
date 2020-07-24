@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="sol.desktop" score="395" last-seen="1595453456"/>
+    <application id="gnome-display-panel.desktop" score="0" last-seen="0"/>
+    <application id="org.gnome.Screenshot.desktop" score="0" last-seen="1595453910"/>
+    <application id="org.gnome.Cheese.desktop" score="0" last-seen="1595453879"/>
+    <application id="org.gnome.PowerStats.desktop" score="0" last-seen="1595453467"/>
+    <application id="transmission-gtk.desktop" score="1" last-seen="1595453867"/>
+    <application id="gnome-control-center.desktop" score="17" last-seen="1595583356"/>
+    <application id="update-manager.desktop" score="0" last-seen="1595450673"/>
+    <application id="gnome-initial-setup.desktop" score="3" last-seen="1595450619"/>
+    <application id="shotwell.desktop" score="0" last-seen="1595453924"/>
+    <application id="org.gnome.Terminal.desktop" score="71" last-seen="1595583361"/>
+    <application id="firefox.desktop" score="0" last-seen="1595450619"/>
+    <application id="org.gnome.baobab.desktop" score="0" last-seen="1595453888"/>
+    <application id="gnome-system-monitor.desktop" score="0" last-seen="1595453481"/>
+    <application id="rhythmbox.desktop" score="0" last-seen="1595453897"/>
+    <application id="gkbd-keyboard-display.desktop" score="0" last-seen="1595580715"/>
+    <application id="org.gnome.Sudoku.desktop" score="52" last-seen="1595453851"/>
+  </context>
+</application-state>
